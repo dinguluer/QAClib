@@ -17,6 +17,18 @@
       repo: 'https://github.com/bryantson/OpensourceDotComDemos/tree/master/DocsifyDemo',
       loadSidebar: true
     }
+    subMaxLevel: 3,
+    search: 'auto', // default
+
+    // complete configuration parameters
+    search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto',
+      placeholder: 'Type to search',
+      noData: 'No Results!',
+      depth: 3,
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+    },	
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
