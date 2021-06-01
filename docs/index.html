@@ -17,6 +17,12 @@
       repo: 'https://github.com/dinguluer/QAClib',
       loadSidebar: true,
 	  coverpage: true,
+	  loadSidebar: './docs/_sidebar.md',
+      autoHeader: './docs/_coverpage.md',
+	  alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_coverpage.md': '/_coverpage.md',
+      },
 	  search: 'auto', // default
       // complete configuration parameters
       search: {
