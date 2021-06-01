@@ -1,4 +1,4 @@
-![QAClib logo](./images/logo_main.png)
+![QAClib logo](./images/logo_main_1.png)
 
 # The QAClib
 
