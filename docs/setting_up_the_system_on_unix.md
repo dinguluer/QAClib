@@ -1,4 +1,4 @@
-# Tutorial for Setting up the QAClib on UNIX/LINUX O.S.
+# Tutorial for Setting up the QAClib on UNIX / LINUX O.S.
 
 QAClib is an open source library based on QML. Here we will describe how to setup QAClib on your UNIX/LINUX based machine.
 

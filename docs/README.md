@@ -8,8 +8,8 @@ QAClib ( **QT for Automotive clusture library** ) is a library for rapid develop
 **QAClib is free.** Free to use. Free to change. Free to do whatever you want to do with it. VSCP is not owned by anyone. VSCP will stay free and gratis forever.
 
 # Version details
-* **Describe software version**:1.0.0     
-* **Doc update:** 31-05-2021  
+* **Describe software version**:${/var/document-version}
+* **Doc update:** ${/var/creation-time}
 
 # Developer details
 * Author  : Dinesh Guleria
