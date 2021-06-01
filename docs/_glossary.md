@@ -1,3 +1,7 @@
+##### QAClib
+QT for Automotive clusture library.
+
+
 ##### Cluster
 In an automobile, an electronic instrument cluster, digital instrument panel or digital dash for short, is a set of instrumentation, including the speedometer, that is displayed with a digital readout rather than with the traditional analog gauges. Many refer to it simply as a digital speedometer.
 
