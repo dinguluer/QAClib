@@ -4,7 +4,7 @@
 
 Scroll down to view docs.
 
-[Homepage](https://www.vscp.org)
-[Docs](http://docs.vscp.org/)
-[Downloads](https://www.vscp.org/#download)
+[Homepage](https://github.com/dinguluer/QAClib)
+[Docs](https://github.com/dinguluer/QAClib)
+[Downloads](https://github.com/dinguluer/QAClib)
 [Get Started](./README)
