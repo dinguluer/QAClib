@@ -1,8 +1,6 @@
-
-
 ![QAClib logo](./images/logo_main.png)
 
-# The VSCP Daemon
+# The QAClib
 
 Scroll down to view docs.
 
