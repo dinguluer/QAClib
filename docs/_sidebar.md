@@ -9,7 +9,15 @@
  * [Windows](setting_up_the_system_on_windows.md)
 
 * Widgets
-
+ * [Guage](./Guage.md)
+ * [Needle](./Needle.md)
+ * [Needle TIP glow](./Needle_tip_glow.md)
+ * [Warning Indicator](./warning_indicator.md) 
+ * [Left/Right Indicator](./left_right_indicator.md) 
+ * [Gear](./Gear.md) 
+ * [Odometer](./Odometer.md) 
+ 
+  
 * Appendix
  * [History](./history.md)
  * [Faq](./faq.md)
