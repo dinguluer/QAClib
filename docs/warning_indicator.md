@@ -56,6 +56,12 @@ Window {
 # Warning Indicator : Sample Project
 [Warning Indicator Sample Project](https://doc.qt.io/qt-5/qtquick-index.html) 
 
+# Warning Indicator : Sample Project : QAClib
+[Warning Indicator Sample Project](https://doc.qt.io/qt-5/qtquick-index.html) 
+
+# Warning Indicator : Sample Project : X,Y cordinate setting for images : QAClib
+[Warning Indicator Sample Project](https://doc.qt.io/qt-5/qtquick-index.html) 
+
 # Warning Indicator GUI Image
 ![QML](./images/Warning_indicator/1.png "Warning Indicator")
 

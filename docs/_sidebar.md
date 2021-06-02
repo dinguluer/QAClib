@@ -12,6 +12,8 @@
 
 * [Create QT Quick Application](./create_QT_Quick_Application.md)
 
+* [Customise QT Quick Application](./customise_QT_Quick_Application.md)
+
 * Widgets
  * [Warning Indicator](./warning_indicator.md) 
  * [Guage](./Guage.md)
