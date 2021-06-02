@@ -7,8 +7,8 @@
 
 * Setup
 * [Setting up the system - intro](setting_up_the_system.md)
- * [Linux/Unix](setting_up_the_system_on_unix.md)
- * [Windows](setting_up_the_system_on_windows.md)
+ * [Setup on Linux/Unix](setting_up_the_system_on_unix.md)
+ * [Setup on Windows](setting_up_the_system_on_windows.md)
 
 * [Create QT Quick Application](./create_QT_Quick_Application.md)
 
