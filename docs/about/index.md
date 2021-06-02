@@ -1,6 +1,6 @@
 # About QT Quick
 
-The Qt Quick module is the standard library for writing QML applications. This is how we import the QT Quick Module.
+The [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html) module is the standard library for writing QML applications. This is how we import the QT Quick Module.
 ```
 { 
 import QtQuick 2.12 
@@ -11,13 +11,13 @@ https://doc.qt.io/qt-5/qtquick-index.html
 ```
 
 # About QML
-QML is language we will work with for QML applications development.
+[QML](https://doc.qt.io/qt-5/qtqml-index.html) is language we will work with for QML applications development.
 ```url
 https://doc.qt.io/qt-5/qtqml-index.html
 ```
 
 # New commer to QML & QT quick
-For those new to QML and Qt Quick, please see QML Applications for an introduction to writing QML applications.
+For those new to QML and Qt Quick, please see [QML Applications](https://doc.qt.io/qt-5/qmlapplications.html) for an introduction to writing QML applications.
 ```url
 https://doc.qt.io/qt-5/qmlapplications.html
 ```
@@ -31,3 +31,10 @@ But if you will do it with C plus plus you will be importing libraries, you will
 QML application allows integrate QML code with JavaScript and C++. The Qt QML module provides both a QML API and a C++ API.
 
 
+# Tutorial : QML getting started
+```url
+https://qmlbook.github.io/
+```
+```url
+https://doc.qt.io/
+```
