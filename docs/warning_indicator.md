@@ -53,11 +53,11 @@ Window {
 }
 
 ```
-# Final Warning Indicator : Sample Project
+# Warning Indicator : Sample Project
 [Warning Indicator Sample Project](https://doc.qt.io/qt-5/qtquick-index.html) 
 
-# Final Warning Indicator GUI Image
+# Warning Indicator GUI Image
 ![QML](./images/Warning_indicator/1.png "Warning Indicator")
 
-# Final Warning Indicator GUI Video
+# Warning Indicator GUI Video
 [Warning Indicator Demo video on Youtube](https://doc.qt.io/qt-5/qtquick-index.html) 
