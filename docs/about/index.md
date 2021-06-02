@@ -2,9 +2,7 @@
 
 The [Qt Quick](https://doc.qt.io/qt-5/qtquick-index.html) module is the standard library for writing QML applications. This is how we import the QT Quick Module.
 ```
-{ 
 import QtQuick 2.12 
-}
 ```
 ```url
 https://doc.qt.io/qt-5/qtquick-index.html

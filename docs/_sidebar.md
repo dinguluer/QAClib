@@ -13,10 +13,10 @@
 * [Create QT Quick Application](./create_QT_Quick_Application.md)
 
 * Widgets
+ * [Warning Indicator](./warning_indicator.md) 
  * [Guage](./Guage.md)
  * [Needle](./Needle.md)
  * [Needle TIP glow](./Needle_tip_glow.md)
- * [Warning Indicator](./warning_indicator.md) 
  * [Left/Right Indicator](./left_right_indicator.md) 
  * [Gear](./Gear.md) 
  * [Odometer](./Odometer.md) 
