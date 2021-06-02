@@ -10,6 +10,8 @@
  * [Linux/Unix](setting_up_the_system_on_unix.md)
  * [Windows](setting_up_the_system_on_windows.md)
 
+* [Create QT Quick Application](./create_QT_Quick_Application.md)
+
 * Widgets
  * [Guage](./Guage.md)
  * [Needle](./Needle.md)
