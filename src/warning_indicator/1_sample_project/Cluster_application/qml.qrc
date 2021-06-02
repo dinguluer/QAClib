@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src_qml/main.qml</file>
+        <file>images/Check-Engine-Light.png</file>
+        <file>images/Check-Engine-Light_1.png</file>
+        <file>images/Teltail_base.png</file>
+    </qresource>
+    <qresource prefix="/files"/>
+    <qresource prefix="/src"/>
+    <qresource prefix="/src_qml"/>
+</RCC>
