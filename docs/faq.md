@@ -24,12 +24,17 @@ IDEs are irrelevant during compilation. What matters is your compiler. And it is
 ## How to check which compiler QT uses, for my application ?
 We can check directly, by following steps.
 
-### Step-1 : GO to Projects section.  
+### Step-1 
+GO to Projects section.  
+
 ![Projects](./images/Check_Compiler_version/1.png "Projects")
 
-### Step-2 : Hover your mouse cursor over Build button.
+### Step-2 
+Hover your mouse cursor over Build button.
+
 ![Build](./images/Check_Compiler_version/2.png "Build")
 
-### Step-3 : Compiler version used pop up.
-![Compiler version](./images/Check_Compiler_version/3.png "Compiler version")
+### Step-3 
+Compiler version used pop up.
 
+![Compiler version](./images/Check_Compiler_version/3.png "Compiler version")
