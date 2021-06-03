@@ -25,11 +25,11 @@ IDEs are irrelevant during compilation. What matters is your compiler. And it is
 We can check directly, by following steps.
 
 ### Step-1 : GO to Projects section.  
-![Projects](./images/Check Compiler version/1.png "Projects")
+![Projects](./images/Check_Compiler_version/1.png "Projects")
 
 ### Step-2 : Hover your mouse cursor over Build button.
-![Build](./images/Check Compiler version/2.png "Build")
+![Build](./images/Check_Compiler_version/2.png "Build")
 
 ### Step-3 : Compiler version used pop up.
-![Compiler version](./images/Check Compiler version/3.png "Compiler version")
+![Compiler version](./images/Check_Compiler_version/3.png "Compiler version")
 
