@@ -14,8 +14,13 @@ QAClib ( **QT for Automotive clusture library** ) is a library for rapid develop
 # Developer details
 * Author  : Dinesh Guleria
 * Author Email : din.gulu.er@gmail.com
+
+
+${/var/creation-time}  
+This document is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and can be freely copied, redistributed, remixed, transformed, built upon as long as you give credits to the author.
+
 ---
 
-Copyright © 2020-2021 Dinesh Guleria - MIT license.
+QAClib library : Copyright © 2020-2021 Dinesh Guleria - MIT license.
 
 ---
