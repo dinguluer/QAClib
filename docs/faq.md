@@ -38,3 +38,6 @@ Hover your mouse cursor over Build button.
 Compiler version used pop up.
 
 ![Compiler version](./images/Check_Compiler_version/3.png "Compiler version")
+
+## Adding Custom Compilers
+[Custom Compiler](https://doc.qt.io/qtcreator/creator-tool-chains.html)
