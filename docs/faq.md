@@ -1,7 +1,7 @@
 # faq
 
 ## Which version of QT to use ?
-Sample applications are tested for QT IO version : **QT 6.1.0**.
+Sample applications are tested for QT IO version : **QT for MCU V_1.8**.
 
 ## How to Add QML based widgets to my QT application code ? 
 Just include the respective QML file for widget & refer to sample application code provided.
